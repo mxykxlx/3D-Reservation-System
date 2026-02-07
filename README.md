@@ -1,4 +1,4 @@
-# SOAR: A Seat-Occupancy and Reservation System using RFID Technology and 3D Visualization
+# Shyl-SOAR: A Seat-Occupancy and Reservation System using RFID Technology and 3D Visualization
 
 This was originally at https://github.com/rykagene/capstone but we have transitioned the entire project to Webpack to address critical issues with Three.JS and PHP
 
